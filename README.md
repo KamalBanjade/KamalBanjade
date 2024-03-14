@@ -25,7 +25,7 @@
     <img src="https://komarev.com/ghpvc/?username=KamalBanjade&style=flat-square&color=blue" alt=""/>
   </div>
   
-### Hey, there! 👋
+### Hello, I'm Kamal 👋
 
 ---
 
