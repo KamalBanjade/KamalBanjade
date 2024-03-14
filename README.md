@@ -29,15 +29,5 @@
 
 ---
 
-<div style="text-align: left;"> <!-- Aligning "About me" section to the left -->
-    <h3>About me:</h3>
-    <ul>
-        <li>👨‍💻 Aspiring BSc.CSIT undergrad, 19. Coding enthusiast 🚀</li>
-        <li>🌟 Passionate about coding and technology</li>
-        <li>📚 Currently exploring machine learning and web development</li>
-        <li>🎨 Enthusiastic about design and UI/UX</li>
-        <li>⚡ Fun fact: I can solve a Rubik's cube in under a minute!</li>
-    </ul>
-</div>
 
-</div>
+
