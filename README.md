@@ -13,7 +13,7 @@
     </a>
     &nbsp;&nbsp; <!-- Add some space between the badges -->
     <a href="https://www.linkedin.com/in/kamal-banjade">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" alt="LinkedIn Logo"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height ="48"alt="LinkedIn Logo"/>
     </a>
     &nbsp;&nbsp; <!-- Add some space between the badges -->
     <a href="https://www.instagram.com/kamal.banjade_/">
@@ -25,9 +25,9 @@
     <img src="https://komarev.com/ghpvc/?username=KamalBanjade&style=flat-square&color=blue" alt=""/>
   </div>
   
-### Hey there! 👋
+### Hey, there! 👋
 
 ---
 
-
+### :man_technologist: About Me :
 
