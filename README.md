@@ -12,7 +12,7 @@
       <img src="https://i.imgur.com/fpkzmEC.png" width="50" alt="Twitter Logo"/>
     </a>
     &nbsp;&nbsp; <!-- Add some space between the badges -->
-    <a href="https://www.linkedin.com/in/kamal-banjade">
+    <a href="[https://www.linkedin.com/in/kamal-banjade](https://www.linkedin.com/in/kamal-banjade-554198254/)">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height ="48"alt="LinkedIn Logo"/>
     </a>
     &nbsp;&nbsp; <!-- Add some space between the badges -->
